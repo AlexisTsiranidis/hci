@@ -1,0 +1,15 @@
+---
+author: AlexisTsiranidis
+title: "apple watch"
+image_url: 
+caption: "apple watch AA"
+categories:
+  - biography
+  - definition
+tags:
+  - apple
+gallery:
+  - image_url: 
+    caption: "apple aple"
+
+{% include_relative bio-torvalds.md %}
